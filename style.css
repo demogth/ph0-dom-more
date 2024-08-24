@@ -1,0 +1,14 @@
+input {
+    width: 200px;
+}
+
+button {
+    width: 100px;
+    background-color: rgb(229, 134, 134);
+}
+
+.box {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+}
